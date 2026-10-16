@@ -1,12 +1,7 @@
-### Hi there 👋
+Commerce student at DPS Panvel. Interested in M&A, capital markets and how companies are valued.
 
-I'm a Class 11 commerce student at Delhi Public School, Panvel (India), working towards a career in **investment banking and corporate finance**.
+**market-notebook**: a ₹2 lakh paper portfolio of Indian stocks that I track against the Nifty 50 every month, with a reason written down for every position and a monthly write-up of what went right and wrong.
 
-I learn finance by building things:
+Working on: reading annual reports properly, DCF and comparable-company valuation, how deals get structured.
 
-- 📈 **[Market Notebook](https://github.com/arnavtuntune/market-notebook)**: a paper portfolio of NSE stocks, tracked against the Nifty 50 by a Python script, with monthly reports and one-page research notes
-- 🤖 Exploring how **AI and Python** can speed up financial research, while still doing the thinking myself
-
-**Currently learning:** accounting · Excel · valuation · Python for finance
-
-**Connect:** [LinkedIn](#) · arnavtuntune@gmail.com
+[LinkedIn](#) · arnavtuntune@gmail.com
