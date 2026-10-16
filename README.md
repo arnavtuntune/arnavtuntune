@@ -4,4 +4,4 @@ Commerce student at DPS Panvel. Interested in M&A, capital markets and how compa
 
 Working on: reading annual reports properly, DCF and comparable-company valuation, how deals get structured.
 
-[LinkedIn](#) · arnavtuntune@gmail.com
+[LinkedIn](https://www.linkedin.com/in/arnavtuntune) · arnavtuntune@gmail.com
